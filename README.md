@@ -67,7 +67,7 @@ _mihel_ uses an alphabet consisting of 14 consonants and 5 vowels.
 | m | consonant	| /m/	| as in "ma" |
 | n	| consonant	| /n/	| as in "na" |
 | l	| consonant	 | /l/ | as in "la" |
-| r	| consonant	 | /r/ | as in "ra" |
+| r	| consonant	 | /r/ | as in "ra" (This is a tap r. It can be trilled for emphasis.) |
 | w	| consonant	| /w/	 | as in "wa" |
 | y	| consonant	 | /j/	| as in "ya" |
 | h |	consonant	| /h/	| as in "ha" |
@@ -77,6 +77,47 @@ _mihel_ uses an alphabet consisting of 14 consonants and 5 vowels.
 | i | vowel |	/i/ | as in "me" |
 | o | vowel | /o/ | as in "oh" |
 | u | vowel | /u/ | as in "coo" |
+
+### Morphology
+
+#### Nouns
+Nouns always end in consonants. For example, these are all acceptable forms for nouns: CVC, CVCVC, CVCVCVC, etc.
+
+#### Verbs
+Verbs always end in vowels. For example, these are all acceptable forms for verbs: CV, CVCV, CVCVCV, etc. Verbs are not conjugated. Instead, the speaker can follow the verb by either "pa" for something that occurred in the past, "na" for something that is happening now, or "fa" for something that will happen in the future; however, ...
+
+#### Negation
+Anything can be negated, reversed, or inverted by prefixing it with "a". For example, if "go" is the verb for movement, "ago" is the verb for remaining stationary. Similarly, if "fe" is the noun for a woman, "afe" is the noun for a man.
+
+#### Word Creation
+New words are created by compounding words that represent the relevant concepts. All the other rules must be followed. For example, if "go" is the word for movement and "far" is the word for away, then "gofara" can be used for the verb form of "leave" and "gofar" can be used for the noun form.
+
+| Past | pa + verb |  |
+| Present | na + verb |  |
+| Future | fa + verb |  |
+| Uncertain Past | apa + verb |  |
+| Uncertain Present | ana + verb |  |
+| Uncertain Future | afa + verb |  |
+
+
+#### Root Morpheme Table
+
+| | a | e | i | o | u |
+|---|---|---|---|---|---|
+| b	| ba () | be () | bi () | bo () | bu () |
+| d	| da () | de () | di () | do () | du () |
+| p	| past ("pa") |  |  |  |  |
+| g |  | 	|  |  |  |
+| t |  | 	|  |  |  |
+| k	|  | 	|  |  |  |
+| m |  | 	|  |  |  |
+| n	| present ("na") | 	|  |  |  |
+| l	|  | 	|  |  |  |
+| r	|  | 	|  |  |  |
+| w	|  | 	|  |  |  |
+| y	|  | 	|  |  |  |
+| h |  | 	|  |  |  |
+| f	|  | female ("fe") |  |  | future ("fu") |
 
 ### Semantic Skeleton
 
@@ -109,9 +150,15 @@ _mihel_ uses an alphabet consisting of 14 consonants and 5 vowels.
 |---|---|---|
 | Space | | |
 | Location | | |
-| Spatial Relation (Near) | | |
-| Time | | |
-| Relative Time (Now) | | |
+| - Here | | |
+| - There | | |
+| Spatial Relation | | |
+| - Near | | |
+| - Far | | |
+| Relative Time | | |
+| - Past | | |
+| - Now | | |
+| - Future | | |
 
 #### Quantity
 | Root Concept | Root Morpheme | Notes |
@@ -124,38 +171,21 @@ _mihel_ uses an alphabet consisting of 14 consonants and 5 vowels.
 #### Modality & Epistemics
 | Root Concept | Root Morpheme | Notes |
 |---|---|---|
-| Negation | a | This can be used to negate anything by affixing it to the front of the word. Example: Animate is "na". Inanimate is "ana". |
-| Certain | ke | |
+| Negation | a | This can be used to negate anything by prefixing "a" to the word. Example: Animate is "na". Inanimate is "ana". |
+| Certain | ke | This comes after the time/space expression to indicate if it is  |
 | Uncertain | ake | |
 
 #### Evaluation
 | Root Concept | Root Morpheme | Notes |
 |---|---|---|
-| Good | | |
-| Bad | | |
+| Good | gu | |
+| Bad | agu | |
 | Neutral | ne | |
 
 #### Attributes
 | Root Concept | Root Morpheme | Notes |
 |---|---|---|
-| Gender |  |  |
-
-
-### Root Morphemes
-
-| | a | e | i | o | u |
-|---|---|---|---|---|---|
-| b	|  | 	|  |  |  |
-| d	|  | 	|  |  |  |
-| p	| past ("pa") | 	|  |  |  |
-| g |  | 	|  |  |  |
-| t |  | 	|  |  |  |
-| k	|  | 	|  |  |  |
-| m |  | 	|  |  |  |
-| n	| present ("na") | 	|  |  |  |
-| l	|  | 	|  |  |  |
-| r	|  | 	|  |  |  |
-| w	|  | 	|  |  |  |
-| y	|  | 	|  |  |  |
-| h |  | 	|  |  |  |
-| f	| future ("fu") | female ("fe") |  |  |  |
+| Gender |  | This concept can only be applied to living things.  |
+| - Female | fe |  |
+| - Male | afe |  |
+| - Nonbinary | non |  |
