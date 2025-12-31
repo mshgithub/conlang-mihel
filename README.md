@@ -4,6 +4,22 @@ _mihel_ is a constructed language that I designed for fun over the 2025 Holiday 
 ## Design Principles
 I designed the _mihel_ language to be simple to learn and expressive. 
 
+1. Easy to learn
+  - Minimal irregularity
+  - Predictable grammar
+  - Small phoneme inventory
+2. Expressive
+  - Able to convey nuance without long sentences
+  - Supports abstraction, emotion, and metaphor
+3. Explicit tense
+  - Clear distinction between past, present, future
+  - No ambiguity unless intentionally allowed
+4. Gender-neutral
+  - No grammatical gender
+  - No gender marking on nouns, pronouns, or adjectives
+5. Compact core lexicon
+  - ~2,500–5,000 core concepts
+
 ## Details
 
 ### Alphabet
