@@ -77,3 +77,65 @@ _mihel_ uses an alphabet consisting of 14 consonants and 5 vowels.
 | i | vowel |	/i/ | as in "me" |
 | o | vowel | /o/ | as in "oh" |
 | u | vowel | /u/ | as in "coo" |
+
+### Semantic Skeleton
+
+#### Ontology
+| Root Concept | Root Morpheme | Notes |
+|---|---|---|
+| Entity | | |
+| - Animate | | |
+| - Inanimate | | |
+| Abstract | | |
+| Concrete | | |
+
+#### States & Events
+| Root Concept | Root Morpheme | Notes |
+|---|---|---|
+| State | | |
+| Change | | |
+| Event | | |
+| Action | | |
+| Motion | | |
+
+#### Roles
+| Root Concept | Root Morpheme | Notes |
+|---|---|---|
+| Agent | | |
+| Patient | | |
+
+#### Space & Time
+| Root Concept | Root Morpheme | Notes |
+|---|---|---|
+| Space | | |
+| Location | | |
+| Spatial Relation (Near) | | |
+| Time | | |
+| Relative Time (Now) | | |
+
+#### Quantity
+| Root Concept | Root Morpheme | Notes |
+|---|---|---|
+| None | | |
+| One | | |
+| Few | | |
+| Many | | |
+
+#### Modality & Epistemics
+| Root Concept | Root Morpheme | Notes |
+|---|---|---|
+| Negation | | |
+| Certain | | |
+| Uncertain | | |
+
+#### Evaluation
+| Root Concept | Root Morpheme | Notes |
+|---|---|---|
+| Good | | |
+| Bad | | |
+| Neutral | | |
+
+### Attributes
+| Root Concept | Root Morpheme | Notes |
+|---|---|---|
+| Gender (Male / Female) | | |
