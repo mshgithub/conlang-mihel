@@ -1,2 +1,2 @@
 # conlang-mihel
-mihel is a constructed language that I designed for fun. Enjoy!
+_mihel_ is a constructed language that I designed for fun. Enjoy!
