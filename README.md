@@ -1,4 +1,4 @@
-# The mihel ConLang
+# The _mihel_ ConLang
 _mihel_ is a constructed language that I designed for fun over the 2025 Holiday Season. Enjoy!
 
 ## Design Principles
