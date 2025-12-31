@@ -19,6 +19,7 @@ I designed the _mihel_ language to be simple to learn and expressive.
   - No gender marking on nouns, pronouns, or adjectives
 5. Compact core lexicon
   - ~2,500–5,000 core concepts
+  - Heavy use of derivation and compounding
 
 ## Details
 
