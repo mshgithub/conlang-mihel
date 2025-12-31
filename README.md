@@ -9,7 +9,11 @@ _NOTE: I made liberal use of ChatGPT to design _mihel_ and to learn what I neede
 _Coming Soon!_
 
 ### Sample Writings
-_Coming Soon!_
+_Coming Soon! Will include:_
+  - _10 basic sentences_
+  - _1 short story_
+  - _1 emotional conversation_
+  - _1 technical explanation_
 
 ## Design Principles
 I designed the _mihel_ language to be simple to learn and expressive. 
