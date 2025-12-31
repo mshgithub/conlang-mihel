@@ -144,6 +144,7 @@ _mihel_ uses an alphabet consisting of 14 consonants and 5 vowels.
 ### Root Morphemes
 
 | | a | e | i | o | u |
+|---|---|---|---|---|---|
 | b	|  | 	|  |  |  |
 | d	|  | 	|  |  |  |
 | p	| past ("pa") | 	|  |  |  |
