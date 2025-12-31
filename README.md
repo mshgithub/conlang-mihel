@@ -1,5 +1,7 @@
 # The _mihel_ ConLang
-_mihel_ is a constructed language that I designed for fun over the 2025 Holiday Season. Enjoy!
+_mihel_ is a constructed language that I designed for fun over the 2025 Holiday Season. Enjoy! 
+
+_NOTE: I made liberal use of ChatGPT to design _mihel_ and learn what I needed to know about linguistics to do so._
 
 ## Design Principles
 I designed the _mihel_ language to be simple to learn and expressive. 
@@ -20,6 +22,22 @@ I designed the _mihel_ language to be simple to learn and expressive.
 5. Compact core lexicon
   - ~2,500–5,000 core concepts
   - Heavy use of derivation and compounding
+
+### Typological Profile
+_mihel_ uses an analytic–agglutinative hybrid typological profile.
+
+Analytic (like English or Mandarin):
+- Little or no inflection
+- Word order + particles carry meaning
+
+Agglutinative (like Turkish or Esperanto):
+- Small, regular affixes
+- One meaning per affix
+
+This hybrid gives:
+- Learnability
+- Expressive precision
+- Compact encoding
 
 ## Details
 
