@@ -1,7 +1,15 @@
 # The _mihel_ ConLang
 _mihel_ is a constructed language that I designed for fun over the 2025 Holiday Season. Enjoy! 
 
-_NOTE: I made liberal use of ChatGPT to design _mihel_ and learn what I needed to know about linguistics to do so._
+_NOTE: I made liberal use of ChatGPT to design _mihel_ and to learn what I needed to know about linguistics to do so._
+
+## Downloads
+
+### Language Helps
+_Coming Soon!_
+
+### Sample Writings
+_Coming Soon!_
 
 ## Design Principles
 I designed the _mihel_ language to be simple to learn and expressive. 
