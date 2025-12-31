@@ -66,12 +66,12 @@ _mihel_ uses an alphabet consisting of 14 consonants and 5 vowels.
 | k	| consonant |	/k/	| as in "ka" |
 | m | consonant	| /m/	| as in "ma" |
 | n	| consonant	| /n/	| as in "na" |
-| l	 | consonant	 | /l/ | as in "la" |
-| r	 | consonant	 | /r/ | as in "ra" |
+| l	| consonant	 | /l/ | as in "la" |
+| r	| consonant	 | /r/ | as in "ra" |
 | w	| consonant	| /w/	 | as in "wa" |
-| y	 | consonant	 | /j/	| as in "ya" |
+| y	| consonant	 | /j/	| as in "ya" |
 | h |	consonant	| /h/	| as in "ha" |
-| f	 | consonant | /f/ | as in "fa" |
+| f	| consonant | /f/ | as in "fa" |
 | a | vowel | /a/	| as in "ah" |
 | e | vowel	 | /e/	| as in "eh" |
 | i | vowel |	/i/ | as in "me" |
@@ -84,10 +84,10 @@ _mihel_ uses an alphabet consisting of 14 consonants and 5 vowels.
 | Root Concept | Root Morpheme | Notes |
 |---|---|---|
 | Entity | | |
-| - Animate | | |
-| - Inanimate | | |
-| Abstract | | |
-| Concrete | | |
+| - Animate | na | |
+| - Inanimate | ana | |
+| Concrete | ka | |
+| Abstract | aka | |
 
 #### States & Events
 | Root Concept | Root Morpheme | Notes |
@@ -124,18 +124,37 @@ _mihel_ uses an alphabet consisting of 14 consonants and 5 vowels.
 #### Modality & Epistemics
 | Root Concept | Root Morpheme | Notes |
 |---|---|---|
-| Negation | | |
-| Certain | | |
-| Uncertain | | |
+| Negation | a | This can be used to negate anything by affixing it to the front of the word. Example: Animate is "na". Inanimate is "ana". |
+| Certain | ke | |
+| Uncertain | ake | |
 
 #### Evaluation
 | Root Concept | Root Morpheme | Notes |
 |---|---|---|
 | Good | | |
 | Bad | | |
-| Neutral | | |
+| Neutral | ne | |
 
-### Attributes
+#### Attributes
 | Root Concept | Root Morpheme | Notes |
 |---|---|---|
-| Gender (Male / Female) | | |
+| Gender |  |  |
+
+
+### Root Morphemes
+
+| | a | e | i | o | u |
+| b	|  | 	|  |  |  |
+| d	|  | 	|  |  |  |
+| p	| past ("pa") | 	|  |  |  |
+| g |  | 	|  |  |  |
+| t |  | 	|  |  |  |
+| k	|  | 	|  |  |  |
+| m |  | 	|  |  |  |
+| n	| present ("na") | 	|  |  |  |
+| l	|  | 	|  |  |  |
+| r	|  | 	|  |  |  |
+| w	|  | 	|  |  |  |
+| y	|  | 	|  |  |  |
+| h |  | 	|  |  |  |
+| f	| future ("fu") | female ("fe") |  |  |  |
