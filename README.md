@@ -80,33 +80,87 @@ _mihel_ uses an alphabet consisting of 14 consonants and 5 vowels.
 
 ### Morphology
 
-#### Nouns
-Nouns always end in consonants. For example, these are all acceptable forms for nouns: CVC, CVCVC, CVCVCVC, etc.
-
-#### Verbs
-Verbs always end in vowels. For example, these are all acceptable forms for verbs: CV, CVCV, CVCVCV, etc. Verbs are not conjugated. Instead, the speaker can follow the verb by either "pa" for something that occurred in the past, "na" for something that is happening now, or "fa" for something that will happen in the future; however, ...
+#### Word Creation
+New words are created by compounding words that represent the relevant concepts. All the other rules must be followed. For example, if "go" is the word for movement and "far" is the word for away, then "gofara" can be used for the verb form of "leave" and "gofar" can be used for the noun form.
 
 #### Negation
 Anything can be negated, reversed, or inverted by prefixing it with "a". For example, if "go" is the verb for movement, "ago" is the verb for remaining stationary. Similarly, if "fe" is the noun for a woman, "afe" is the noun for a man.
 
-#### Word Creation
-New words are created by compounding words that represent the relevant concepts. All the other rules must be followed. For example, if "go" is the word for movement and "far" is the word for away, then "gofara" can be used for the verb form of "leave" and "gofar" can be used for the noun form.
+#### Nouns
+Nouns always end in consonants. For example, these are all acceptable forms for nouns: CVC, CVCVC, CVCVCVC, etc.
 
-| Past | pa + verb |  |
-| Present | na + verb |  |
-| Future | fa + verb |  |
-| Uncertain Past | apa + verb |  |
-| Uncertain Present | ana + verb |  |
-| Uncertain Future | afa + verb |  |
+#### Verbs
+Verbs always end in vowels. For example, these are all acceptable forms for verbs: CV, CVCV, CVCVCV, etc. 
 
-
-#### Root Morpheme Table
+##### Root Verb Morphemes
 
 | | a | e | i | o | u |
 |---|---|---|---|---|---|
-| b	| ba () | be () | bi () | bo () | bu () |
+| b	| ba () | be (exist or be located at) | bi () | bo () | bu () |
 | d	| da () | de () | di () | do () | du () |
-| p	| past ("pa") |  |  |  |  |
+| p	| pa () | pe () | pi () | po () | pu () |
+| g | ga () | ge () | gi () | go (move or change) | gu () |
+| t | ta () | te () | ti () | to () | tu () |
+| k	| ka (believe) | ke (know) | ki () | ko () | ku () |
+| m | ma () | me () | mi () | mo () | mu () |
+| n	| na () | ne () | ni () | no () | nu () |
+| l	| la () | le () | li () | lo () | lu () |
+| r	| ra () | re () | ri () | ro () | ru () |
+| w	| wa () | we () | wi () | wo () | wu () |
+| y	| ya () | ye () | yi () | yo () | yu () |
+| h | ha () | he () | hi () | ho () | hu () |
+| f	| fa () | fe () | fi () | fo () | fu () |
+
+##### Verb Creation
+Verbs are created by combining root verbs to more closely express the action. For example, _go_ means _to move or change_ and _be_ means _to exist or be located at_, so _gobe_ means _to travel_. Similarly, since _ka_ means _to believe_, _goka_ means _to change one's mind_.
+
+##### Verb Modifiers
+
+###### Tense
+Verbs are not conjugated. Instead, the speaker can follow the verb by one of the words below to indicate the tense of the action; however, use of the tense modifiers is only required when the tense cannot be infered from context.
+
+| Tense | Word | Example |
+|---|---|---|
+| Past | et | go et (moved) |
+| Present | it | go it (move) |
+| Future | ot | go ot (will move) |
+| Uncertain Past | alet | go alet (\[may/should/ought to\] have moved) |
+| Uncertain Present | alit | go alit (\[may/should/ought to\] move) |
+| Uncertain Future | alot | go alot (\[may/should/ought to\] move in the future) |
+
+####### Sample Sentences Illustrating The Tense Modifiers
+The woman moved: fem go et.
+
+The woman moves: fem go it.
+
+The woman will move: fem go ot. 
+
+If the man moved, the woman may have moved: afem go alet fem go alet. This can also be simplified to: afem fem ala go alet. This form uses _ala_, which indicates that if the first subject does something the following subject does as well.
+
+When the man moved, the woman should have moved: afem go et fem go alet.
+
+When the man moved, the woman moved: afem go et fem go et. Or: afem ala fem go et.
+
+If the man moves, the woman may (or should) move: afem go alit fem go alit. Or: afem ala fem go alit.
+
+If the man moves, the woman will move: afem go alit fem go ot.
+
+When the man moves, the woman may (or should) move: afem go it fem go alit.
+
+When the man moves, the woman will move: afem go it fem go ot.
+
+If the man moves in the future, the woman may move: afem go alot fem go alot. Or: afem ala fem go alot.
+
+When the man moves in the future, the moman may (or should) move: afem go ot fem go alot.
+
+#### Root Morpheme Tables
+
+##### Nouns
+| | a | e | i | o | u |
+|---|---|---|---|---|---|
+| b	| bab () | bed () | bid () | bod () | bud () |
+| d	| dad () | ded () | did () | dod () | dud () |
+| p	| pap () | pep () | pip () | pop () | pup () |
 | g |  | 	|  |  |  |
 | t |  | 	|  |  |  |
 | k	|  | 	|  |  |  |
