@@ -128,30 +128,31 @@ Verbs are not conjugated. Instead, the speaker can follow the verb by one of the
 | Uncertain Present | alit | go alit (\[may/should/ought to\] move) |
 | Uncertain Future | alot | go alot (\[may/should/ought to\] move in the future) |
 
-####### Sample Sentences Illustrating The Tense Modifiers
-The woman moved: fem go et.
+**Sample Sentences Illustrating The Tense Modifiers**
 
-The woman moves: fem go it.
+The woman moved: _fem go et._
 
-The woman will move: fem go ot. 
+The woman moves: _fem go it._
 
-If the man moved, the woman may have moved: afem go alet fem go alet. This can also be simplified to: afem fem ala go alet. This form uses _ala_, which indicates that if the first subject does something the following subject does as well.
+The woman will move: _fem go ot._ 
 
-When the man moved, the woman should have moved: afem go et fem go alet.
+If the man moved, the woman may have moved: _afem go alet fem go alet._ This can also be simplified to: _afem fem ala go alet._ This form uses _ala_, which indicates that if the first subject does something the following subject does as well.
 
-When the man moved, the woman moved: afem go et fem go et. Or: afem ala fem go et.
+When the man moved, the woman should have moved: _afem go et fem go alet._
 
-If the man moves, the woman may (or should) move: afem go alit fem go alit. Or: afem ala fem go alit.
+When the man moved, the woman moved: _afem go et fem go et._ Or: _afem ala fem go et._
 
-If the man moves, the woman will move: afem go alit fem go ot.
+If the man moves, the woman may (or should) move: _afem go alit fem go alit._ Or: _afem ala fem go alit._
 
-When the man moves, the woman may (or should) move: afem go it fem go alit.
+If the man moves, the woman will move: _afem go alit fem go ot._
 
-When the man moves, the woman will move: afem go it fem go ot.
+When the man moves, the woman may (or should) move: _afem go it fem go alit._
 
-If the man moves in the future, the woman may move: afem go alot fem go alot. Or: afem ala fem go alot.
+When the man moves, the woman will move: _afem go it fem go ot._
 
-When the man moves in the future, the moman may (or should) move: afem go ot fem go alot.
+If the man moves in the future, the woman may move: _afem go alot fem go alot._ Or: _afem ala fem go alot._
+
+When the man moves in the future, the moman may (or should) move: _afem go ot fem go alot._
 
 #### Root Morpheme Tables
 
