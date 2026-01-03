@@ -96,27 +96,27 @@ Verbs always end in vowels. For example, these are all acceptable forms for verb
 
 | | a | e | i | o | u |
 |---|---|---|---|---|---|
-| b	| ba () | be (exist or be located at) | bi () | bo () | bu () |
-| d	| da () | de () | di () | do () | du () |
+| b	| ba () | be () | bi () | bo () | bu () |
+| d	| da (_to imagine_) | de (_to design_) | di (_to plan_) | do (_to act_) | du (_to shirk action_) |
 | p	| pa () | pe () | pi () | po () | pu () |
-| g | ga () | ge () | gi () | go (move or change) | gu () |
+| g | ga (_to exist or be located at_) | ge (_to see_) | gi (_to touch_) | go (_to move_) | gu (_to hide or conceal_) |
 | t | ta () | te () | ti () | to () | tu () |
-| k	| ka (believe) | ke (know) | ki () | ko () | ku () |
+| k	| ka (_to want_) | ke (_to seek_) | ki (_to have or possess_) | ko (_to make or create_) | ku (_to destroy_) |
 | m | ma () | me () | mi () | mo () | mu () |
 | n	| na () | ne () | ni () | no () | nu () |
 | l	| la () | le () | li () | lo () | lu () |
 | r	| ra () | re () | ri () | ro () | ru () |
 | w	| wa () | we () | wi () | wo () | wu () |
 | y	| ya () | ye () | yi () | yo () | yu () |
-| h | ha () | he () | hi () | ho () | hu () |
+| h | ha (_to think about or consider_) | he (_to believe_) | hi (_to doubt_) | ho (_to know_) | hu (_to think incorrectly or be mistaken_) |
 | f	| fa () | fe () | fi () | fo () | fu () |
 
 ##### Verb Creation
 Verbs are created by combining root verbs to more closely express the action. For example, _go_ means _to move or change_ and _be_ means _to exist or be located at_, so _gobe_ means _to travel_. Similarly, since _ka_ means _to believe_, _goka_ means _to change one's mind_.
 
-##### Verb Modifiers
+##### Verb Modifiers (Adverbs)
 
-###### Tense
+###### Tense (Temporal Modifiers)
 Verbs are not conjugated. Instead, the speaker can follow the verb by one of the words below to indicate the tense of the action; however, use of the tense modifiers is only required when the tense cannot be infered from context.
 
 | Tense | Word | Example |
